@@ -1,0 +1,63 @@
+
+
+    @media (max-width: 599px) {
+        body {
+            background-color: red;
+        }
+        
+
+    }
+  
+
+    @media (min-width: 600px) {
+        body {
+            background-color: orange;
+        }
+        
+
+    }
+  
+
+    @media (min-width: 600px) and (max-width: 899px) {
+        body {
+            background-color: yellow;
+        }
+        
+
+
+  }
+
+    @media (min-width: 900px) {
+        body {
+            background-color: green;
+        }
+        
+
+    }
+  
+
+    @media (min-width: 900px) and (max-width: 1199px) {
+        body {
+            background-color: blue;
+        }
+        
+
+    }
+
+
+    @media (min-width: 1200px) {
+        body {
+            background-color: indigo;
+        }
+        
+
+    }
+
+
+    @media (min-width: 1200px){
+        body {
+            background-color: violet;
+        }
+        
+
+    }
